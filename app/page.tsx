@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import About from "@/components/About";
 import Welcome from "@/components/Welcome";
 import Pastors from "@/components/Pastors";
 import Services from "@/components/Services";
