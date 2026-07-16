@@ -20,8 +20,11 @@ export default function Services() {
   return (
     <section
       id="services"
-      className="py-24 bg-blue-950 text-white px-6"
-    >
+      data-aos="fade-left"
+      data-aos-duration="1200"
+      className="mt-5 text-gray-600 max-w-7xl mx-auto"
+    >"
+      
       <div className="max-w-7xl mx-auto">
 
         <div className="text-center">

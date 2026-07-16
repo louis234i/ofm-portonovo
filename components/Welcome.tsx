@@ -2,7 +2,10 @@ export default function Welcome() {
   return (
     <section
       id="about"
-      className="bg-white text-gray-800 py-24 px-6"
+      data-aos="fade-up" 
+      data-aos-duration="1200"
+      data-aos-once="true"
+      className="py-24 px-6"
     >
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
 
