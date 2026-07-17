@@ -36,6 +36,7 @@ export default function Pastors() {
             <div className="p-8">
               <h3 className="text-3xl font-bold text-blue-950">
                 Apostle Johnson Suleman
+                Rev. Dr. Lizzy Johnson Suleman
               </h3>
 
               <p className="text-yellow-500 font-semibold mt-2">
