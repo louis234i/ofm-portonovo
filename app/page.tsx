@@ -15,6 +15,7 @@ import LatestSermons from "@/components/LatestSermons";
 import Map from "@/components/Map";
 import Contact from "@/components/Contact";
 import WhatsAppButton from "@/components/WhatsAppButton";
+import ScrollToTop from "@/components/ScrollToTop";
 import Footer from "@/components/Footer";
 export default function Home() {
   return (
@@ -36,6 +37,7 @@ export default function Home() {
       <Map />
       <Contact />
       <WhatsAppButton />
+      <ScrollToTop />
       <Footer />
     </>
   );
