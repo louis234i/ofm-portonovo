@@ -26,10 +26,12 @@ export default function Pastors() {
 
           <div className="bg-white rounded-3xl shadow-xl overflow-hidden hover:scale-105 transition duration-300">
             <img
-              src="/images/apostle-johnson-suleman.jpg"
-              alt="Apostle Johnson Suleman"
-              className="w-full h-[700px] object-cover"
-            />
+              src="/images/general-overseer.jpg"
+              alt="Apostle Johnson Suleman and Rev. Dr. Lizzy Johnson Suleman"
+              width={600}
+              height={500}
+              className="rounded-2xl shadow-2xl w-full h-[500px] object-cover"
+/>
 
             <div className="p-8">
               <h3 className="text-3xl font-bold text-blue-950">
